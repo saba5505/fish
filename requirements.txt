@@ -4,3 +4,5 @@ openpyxl
 python-dotenv
 pyyaml
 numpy
+gspread
+oauth2client
